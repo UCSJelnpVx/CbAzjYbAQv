@@ -1,6 +1,6 @@
 
 setclipboard(_G.HWID)
-	if not messagebox then
+	if messagebox then
 		messagebox(
 			[[                        *- AIRDROP AUTO FARM -*             
                     **YOU DONT HAVE A LICENSE**
