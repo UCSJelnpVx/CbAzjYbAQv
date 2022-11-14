@@ -1,1 +1,14 @@
 
+setclipboard(_G.HWID)
+	if not messagebox then
+		messagebox(
+			[[                        *- AIRDROP AUTO FARM -*             
+                    **YOU DONT HAVE A LICENSE**
+                           Buy at dsc.gg/dropfarm
+                                    800 Robux]],
+			"fucking idiot",
+			0
+		)
+	else
+		rconsolewarn("*- AIRDROP AUTO FARM -*\n**YOU DONT HAVE A LICENSE**\nBuy at dscg.gg/airdropfram\n800 Robux")
+	end
