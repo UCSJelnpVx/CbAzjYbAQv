@@ -4,7 +4,7 @@ local messageinst = Instance.new("Message", workspace)
 local hint = Instance.new("Hint", workspace)
 messageinst.Text = message
 hint.Text = message
-task.wait(20)
+task.wait(120)
 hint:Destroy()
 messageinst:Destroy()
 end)
