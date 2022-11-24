@@ -1,3 +1,4 @@
+spawn(function()
 local message = "This script is currently patched, A fix may be coming soon.. I hope. https://dsc.gg/dropfarm for updates!"
 local messageinst = Instance.new("Message", workspace)
 local hint = Instance.new("Hint", workspace)
@@ -6,6 +7,7 @@ hint.Text = message
 task.wait(20)
 hint:Destroy()
 messageinst:Destroy()
+end)
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
