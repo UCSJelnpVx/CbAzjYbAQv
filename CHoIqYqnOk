@@ -1,5 +1,5 @@
 spawn(function()
-local message = "This script is currently patched, A fix may be coming soon.. I hope. https://dsc.gg/dropfarm for updates!"
+local message = "1.6.3 is currently patched, Use the experimental branch for an undetected version!"
 local messageinst = Instance.new("Message", workspace)
 local hint = Instance.new("Hint", workspace)
 messageinst.Text = message
