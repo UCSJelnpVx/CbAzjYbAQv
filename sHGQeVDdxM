@@ -8,7 +8,7 @@ setclipboard(_G.HWID)
                                     
        Your Exploit's HWID has been copied to your clipboard
                 Would you like to execute the free version?]],
-			"fucking idiot",
+			"Airdrop Autofarm",
 			4
 		) == 6 then
 		    loadstring(game:HttpGet("https://raw.githubusercontent.com/coltonwach/Scripts/main/AirdropAutoFarmFree.lua"))()
