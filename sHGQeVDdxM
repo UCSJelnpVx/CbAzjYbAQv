@@ -2,7 +2,7 @@ setclipboard(_G.HWID)
 	if messagebox then
 		if messagebox(
 			[[                               *- AIRDROP AUTO FARM -*             
-                          **YOU DONT HAVE A LICENSE**
+                          **YOU ARE NOT WHITELISTED**
                                 Buy at dsc.gg/dropfarm
                                             600 Robux
                                     
